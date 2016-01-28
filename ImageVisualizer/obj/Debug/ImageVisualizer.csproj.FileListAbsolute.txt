@@ -1,0 +1,7 @@
+D:\Eigene Dateien\Eigene Dokumente\Visual Studio 2013\Projects\ImageVisualizer\ImageVisualizer\bin\Debug\ImageVisualizer.dll
+D:\Eigene Dateien\Eigene Dokumente\Visual Studio 2013\Projects\ImageVisualizer\ImageVisualizer\bin\Debug\ImageVisualizer.pdb
+D:\Eigene Dateien\Eigene Dokumente\Visual Studio 2013\Projects\ImageVisualizer\ImageVisualizer\obj\Debug\ImageVisualizer.dll
+D:\Eigene Dateien\Eigene Dokumente\Visual Studio 2013\Projects\ImageVisualizer\ImageVisualizer\obj\Debug\ImageVisualizer.pdb
+D:\Eigene Dateien\Eigene Dokumente\Visual Studio 2013\Visualizers\ImageVisualizer.dll
+D:\Eigene Dateien\Eigene Dokumente\Visual Studio 2013\Visualizers\ImageVisualizer.pdb
+D:\Eigene Dateien\Eigene Dokumente\Visual Studio 2013\Projects\ImageVisualizer\ImageVisualizer\obj\Debug\ImageVisualizer.csprojResolveAssemblyReference.cache
